@@ -4,3 +4,6 @@ Utwórz listę ludzi (imię nazwisko, wiek )następnie stwórz nazwę człowieka
 
 Task 2.
 Stwórz listę ludzi (imię, nazwisko, wiek), wylicz średnią wieku wszystkich osób za pomocą strumieni.
+
+Task 3.
+Majac listę ludzi ( imię, nazwisko, wiek ) wypisz najstarszą osobę z listy.
