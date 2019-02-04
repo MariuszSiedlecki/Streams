@@ -7,3 +7,6 @@ Stwórz listę ludzi (imię, nazwisko, wiek), wylicz średnią wieku wszystkich 
 
 Task 3.
 Majac listę ludzi ( imię, nazwisko, wiek ) wypisz najstarszą osobę z listy.
+
+Task 4.
+Utwórz listę ludzi na podstawie wieku,  i wypisz ją.
