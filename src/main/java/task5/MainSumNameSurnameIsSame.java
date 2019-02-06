@@ -17,9 +17,9 @@ public class MainSumNameSurnameIsSame {
     people.add(new Person("Paweł","Sum",27));
     people.add(new Person("Mariusz","To",35));
 
-    Map<Integer,List<Person>> listPeople = people.stream()
-            .collect(Collectors.groupingBy(s->s.getName().length()+ s.getSurname().length()));
-        System.out.println("Groups of people according to long names and surnames:" + listPeople);
+   Map<Integer, List<Person>>listPeople = people.stream()
+           .collect(Collectors.groupingBy(s->s.getName().length()+s.getSurname().length()));
+        System.out.println(listPeople);
 
 }
 }
