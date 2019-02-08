@@ -15,8 +15,8 @@ public class MainRemovingRepetitions {
         people.add(new Person("Anna","Powtorzona",25));
         people.add(new Person("Anna","Powtorzona",25));
 
+        System.out.println("Duplicated person:" + ( people.size() - people.stream().distinct().count()));
 
-        System.out.println("Duplicated people:" + ( people.size() - people.stream().distinct().count()));
 
     }
 }
