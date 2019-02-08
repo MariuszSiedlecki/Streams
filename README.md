@@ -16,3 +16,6 @@ Stwórz listę ludzi (grupy), których długość imienia i nazwiska jest taka s
 
 Task 6.
 Na podstawie utworzonej listy ludzi z imieniem, nazwiskiem, wiekiem, za pomocą strumieni zamień wiek osób na psie lata (n* 6-2). Następnie wyświetl listę osób, których wiek po zmianie przekracza 20 lat.
+
+Task 7.
+Na podstawie list ludzi z imieniem, nazwiakiem, wiekiem w której znajdują się osoby powtarzające - zdublowane, wypisz ile takich ludzi się powatarza z imienia, nazwiako i wieku.
